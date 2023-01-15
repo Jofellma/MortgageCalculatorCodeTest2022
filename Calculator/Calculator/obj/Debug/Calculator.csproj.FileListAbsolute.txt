@@ -1,0 +1,8 @@
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\GitHub\MortgageCalculatorCodeTest2022\Calculator\Calculator\obj\Debug\Calculator.pdb
